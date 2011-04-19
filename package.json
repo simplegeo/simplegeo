@@ -1,6 +1,6 @@
 {
-  "name": "simplegeo-lib",
-  "description": "",
+  "name": "simplegeo-client",
+  "description": "A SimpleGeo Client",
   "keywords": ["simplegeo"],
   "version": "0.0.1",
   "homepage": "https://github.com/ihildebrandt/simplegeo",
