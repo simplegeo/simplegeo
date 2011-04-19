@@ -1,6 +1,6 @@
 {
   "name": "simplegeo",
-  "description": ""
+  "description": "",
   "keywords": ["simplegeo"],
   "version": "0.0.1",
   "homepage": "https://github.com/ihildebrandt/simplegeo",
@@ -11,7 +11,7 @@
   "dependencies": {
       "oauth": ">0.9.0"
   },
-  "main": "lib/simplegeo",
+  "main": "lib/simplegeo.js",
   "directories": {
     "lib": "lib"
   },
