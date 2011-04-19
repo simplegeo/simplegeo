@@ -1,0 +1,22 @@
+{
+  "name": "simplegeo",
+  "description": ""
+  "keywords": ["simplegeo"],
+  "version": "0.0.1",
+  "homepage": "https://github.com/ihildebrandt/simplegeo",
+  "author": "Isaac Hildebrandt <isaac@pihimedia.com> (http://pihimedia.com/)",
+  "contributors": [
+    "Isaac Hildebrandt <isaac@pihimedia.com> (http://pihimedia.com/)"
+  ],
+  "dependencies": {
+      "oauth": ">0.9.0"
+  },
+  "main": "lib/simplegeo",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": { "type" : "git", "url" : "https://github.com/ihildebrandt/simplegeo.git" },
+  "engines": {
+    "node": "*"
+  }
+}
