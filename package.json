@@ -2,7 +2,7 @@
   "name": "simplegeo-client",
   "description": "A SimpleGeo Client",
   "keywords": ["simplegeo"],
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/ihildebrandt/simplegeo",
   "author": "Isaac Hildebrandt <isaac@pihimedia.com> (http://pihimedia.com/)",
   "contributors": [
