@@ -9,7 +9,7 @@
     "Isaac Hildebrandt <isaac@pihimedia.com> (http://pihimedia.com/)"
   ],
   "dependencies": {
-      "oauth": ">=0.9.0"
+      "oauth": ">=0.9.0-sg"
   },
   "main": "lib/simplegeo.js",
   "directories": {
