@@ -1,0 +1,18 @@
+Source: nodejs-gate
+Section: misc
+Priority: extra
+Uploaders: Casey Crites <casey@simplegeo.com>
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+Build-Depends: cdbs,
+ debhelper (>= 7),
+ nodejs (>= 0.4.6),
+ nodejs-oauth (>= 0.8.4),
+Standards-Version: 3.9.1
+
+Package: nodejs-simplegeo
+Depends: nodejs (>= 0.2.6),
+ nodejs-oauth (>= 0.8.4),
+ ${misc:Depends}
+Architecture: all
+Description: SimpleGeo API node client
+ http://github.com/simplegeo/simplegeo
