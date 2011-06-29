@@ -7,6 +7,7 @@ Build-Depends: cdbs,
  debhelper (>= 7),
  nodejs (>= 0.2.6),
  nodejs-oauth (>= 0.8.4),
+ nodejs-pkg-tools (>= 0.1)
 Standards-Version: 3.9.1
 
 Package: nodejs-simplegeo
