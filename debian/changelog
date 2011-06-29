@@ -1,3 +1,13 @@
+nodejs-simplegeo (0.1.8) UNRELEASED; urgency=low
+
+  [ Casey W Crites ]
+  * Changed index.js to simplegeo.js
+  * Removed a line from my debian/install file.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 29 Jun 2011 17:14:51 +0000
+
 nodejs-simplegeo (0.1.0) stable; urgency=low
 
   * Debianized
