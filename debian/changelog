@@ -1,3 +1,12 @@
+nodejs-simplegeo (0.1.0-0sg2) UNRELEASED; urgency=low
+
+  [ Simple Geebus ]
+  * 
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 29 Jun 2011 21:09:52 +0000
+
 nodejs-simplegeo (0.1.0-0sg0) stable; urgency=low
 
   * Debianized
