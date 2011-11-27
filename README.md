@@ -17,6 +17,7 @@ SimpleGeo api endpoints.
 For SimpleGeo Places 1.0 and 1.2, you must make separate calls:
 
     var SimpleGeo = require('simplegeo').SimpleGeo;
+    
     var sg_places12 = new SimpleGeo.Places12('key', 'secret');
     sg_places12.getNearbyPlacesText('Stanford University', function(err,data) {
         for (i in data) {
